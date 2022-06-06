@@ -42,6 +42,7 @@ public class StudentManage {
                     System.out.println("                     感谢您的使用                               ");
                     //flag = false;
                     System.exit(0);
+                    sc.close();
                     break;
             }
         }
